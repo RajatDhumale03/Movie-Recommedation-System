@@ -1,1 +1,2 @@
 # Movie-Recommedation-System
+Our movie recommendation project represents a culmination of data preprocessing, model building, and API integration to deliver a personalized and engaging movie discovery experience. By leveraging advanced techniques such as count vectorization, cosine similarity, and TMDB API integration, we have created a robust recommendation system capable of providing tailored movie suggestions to users. 
